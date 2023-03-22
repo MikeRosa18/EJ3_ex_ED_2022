@@ -84,3 +84,8 @@ This template is inspired from works the following people :
 - [Andrew Hudson](https://github.com/bigandy/astro-blog)
 - [Mykal Machon](https://github.com/MykalMachon/Mykal.Codes)
 - [Nikin Nagewadia](https://github.com/nnagewad/static-personal-site)
+
+
+
+
+CAMBIO DEL EJERCICIO 2
